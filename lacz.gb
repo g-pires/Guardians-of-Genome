@@ -1,0 +1,109 @@
+LOCUS       X16313                   479 bp    mRNA    linear   BCT 26-JUL-2016
+DEFINITION  E.coli mRNA for lacZ 5'-region.
+ACCESSION   X16313
+VERSION     X16313.1
+KEYWORDS    lacZ gene; transcription terminator.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 479)
+  AUTHORS   Ruteshouser,E.C. and Richardson,J.P.
+  TITLE     Identification and characterization of transcription termination
+            sites in the Escherichia coli lacZ gene
+  JOURNAL   J. Mol. Biol. 208 (1), 23-43 (1989)
+   PUBMED   2475637
+COMMENT     Data kindly reviewed (26-OCT-1989) by Ruteshouser E. C.
+FEATURES             Location/Qualifiers
+     source          1..479
+                     /organism="Escherichia coli"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:562"
+                     /clone="pMC1"
+     repeat_region   1..19
+                     /note="inverted repeat 1"
+     repeat_region   36..49
+                     /note="inverted repeat 2"
+     CDS             39..>479
+                     /note="unnamed protein product; lacZ 5'-region"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="CAA34380.1"
+                     /db_xref="GOA:Q47340"
+                     /db_xref="HSSP:1BGL"
+                     /db_xref="InterPro:IPR006104"
+                     /db_xref="InterPro:IPR008979"
+                     /db_xref="UniProtKB/TrEMBL:Q47340"
+                     /translation="MTMITDSLAVVLQRRDWENPGVTQLNRLAAHPPFASWRNSEEAR
+                     TDRPSQQLRSLNGEWRFAWFPAPEAVPESWLECDLPEADTVVVPSNWQMHGYDAPIYT
+                     NVTYPITVNPPFVPTENPTGCYSLTFNVDESWLQEGQTRIIFDGV"
+     repeat_region   57..67
+                     /note="inverted repeat 3"
+     repeat_region   77..85
+                     /note="inverted repeat 3'"
+     repeat_region   88..90
+                     /note="inverted repeat 4"
+     repeat_region   95..98
+                     /note="inverted repeat 4'"
+     repeat_region   99..105
+                     /note="inverted repeat 5"
+     repeat_region   113..120
+                     /note="inverted repeat 5'"
+     repeat_region   126..133
+                     /note="inverted repeat 6"
+     repeat_region   135..166
+                     /note="inverted repeat 7"
+     repeat_region   178..215
+                     /note="inverted repeat 7'"
+     regulatory      179..181
+                     /regulatory_class="terminator"
+                     /note="rho-dependent termination site"
+     regulatory      219..221
+                     /regulatory_class="terminator"
+                     /note="rho-dependent termination site"
+     repeat_region   222..238
+                     /note="inverted repeat 8"
+     repeat_region   245..261
+                     /note="inverted repeat 8'"
+     repeat_region   263..269
+                     /note="inverted repeat 6'"
+     repeat_region   271..286
+                     /note="inverted repeat 9"
+     repeat_region   295..316
+                     /note="inverted repeat 9'"
+     repeat_region   321..330
+                     /note="inverted repeat 10"
+     repeat_region   344..350
+                     /note="inverted repeat 10'"
+     repeat_region   360..375
+                     /note="inverted repeat 2'"
+     regulatory      378..380
+                     /regulatory_class="terminator"
+                     /note="rho-dependent termination site"
+     repeat_region   384..390
+                     /note="inverted repeat 11"
+     repeat_region   396..403
+                     /note="inverted repeat 11'"
+     repeat_region   404..421
+                     /note="inverted repeat 1'"
+     regulatory      420..422
+                     /regulatory_class="terminator"
+                     /note="rho-independent termination site"
+     repeat_region   437..441
+                     /note="inverted repeat 12"
+     repeat_region   451..455
+                     /note="inverted repeat 12'"
+     regulatory      463..465
+                     /regulatory_class="terminator"
+                     /note="rho-dependent termination site"
+ORIGIN      
+        1 aattgtgagc ggataacaat ttcacacagg aaacagctat gaccatgatt acggattcac
+       61 tggccgtcgt tttacaacgt cgtgactggg aaaaccctgg cgttacccaa cttaatcgcc
+      121 ttgcagcaca tccccctttc gccagctggc gtaatagcga agaggcccgc accgatcgcc
+      181 cttcccaaca gttgcgcagc ctgaatggcg aatggcgctt tgcctggttt ccggcaccag
+      241 aagcggtgcc ggaaagctgg ctggagtgcg atcttcctga ggccgatact gtcgtcgtcc
+      301 cctcaaactg gcagatgcac ggttacgatg cgcccatcta caccaacgta acctatccca
+      361 ttacggtcaa tccgccgttt gttcccacgg agaatccgac gggttgttac tcgctcacat
+      421 ttaatgttga tgaaagctgg ctacaggaag gccagacgcg aattattttt gatggcgtt
+//
+
